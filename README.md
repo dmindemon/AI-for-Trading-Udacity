@@ -1,5 +1,5 @@
 # AI for Trading - Udacity
 
-### Directory for Reviews
+### Directory for Reviewer:
 
-### 1. Project 1: project_1_starter.ipynb
+#### 1. Project 1: project_1_starter.ipynb
