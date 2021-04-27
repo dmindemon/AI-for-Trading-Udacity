@@ -2,4 +2,4 @@
 
 ### Directory for Reviewer:
 
-Project 1: project_1_starter.ipynb
+Project 1: ./project_1_starter.ipynb
